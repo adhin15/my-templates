@@ -12,7 +12,7 @@ const SectionOne = () => {
       </div>
 
       <div className="flex flex-wrap justify-between">
-        <div className="w-full md:w-[25%] flex items-center justify-center flex-col gap-4">
+        <div className="w-full md:w-[25%] flex justify-center flex-col gap-4">
           <p className="text-md">
             Transform your living spaces with expert guidance. Our designers bring years of experience and creativity to
             tailor stunning interiors that reflect your style and vision.
@@ -31,7 +31,7 @@ const SectionOne = () => {
           <p className="ms-2 w-[50%]">Consult With Experts</p>
         </div>
 
-        <div className="w-full md:w-[50%] px-4 ">
+        <div className="w-full md:w-[50%] px-4 py-4 ">
           <img src="/assets/images/office-room.jpg" className="h-[300px] object-cover w-full max-w-full" />
         </div>
 

@@ -27,27 +27,6 @@ export const NavbarItems = [
 
 export const FooterItems = [
   {
-    header: "Company",
-    items: [
-      {
-        label: "About Us",
-        url: "/about-us",
-      },
-      {
-        label: "Our Team",
-        url: "/our-team",
-      },
-      {
-        label: "Careers",
-        url: "/careers",
-      },
-      {
-        label: "Blog",
-        url: "/blog",
-      },
-    ],
-  },
-  {
     header: "Services",
     items: [
       {
@@ -86,6 +65,27 @@ export const FooterItems = [
       {
         label: "Terms of Service",
         url: "/terms-of-service",
+      },
+    ],
+  },
+  {
+    header: "Company",
+    items: [
+      {
+        label: "About Us",
+        url: "/about-us",
+      },
+      {
+        label: "Our Team",
+        url: "/our-team",
+      },
+      {
+        label: "Careers",
+        url: "/careers",
+      },
+      {
+        label: "Blog",
+        url: "/blog",
       },
     ],
   },

@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Monserrat;
+  src: url("../fonts/montserrat/Montserrat-Regular.ttf");
+}
+
+@font-face {
+  font-family: Monserrat-Bold;
+  src: url("../fonts/montserrat/Montserrat-Bold.ttf");
+}
+
+@font-face {
+  font-family: Monserrat-Medium;
+  src: url("../fonts//montserrat/Montserrat-Medium.ttf");
+}
+
+:root {
+  color-scheme: light dark;
+  background-color: transparent;
+  background: #000814;
+  font-family: Monserrat;
+}

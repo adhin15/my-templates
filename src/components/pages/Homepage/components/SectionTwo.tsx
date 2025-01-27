@@ -9,7 +9,7 @@ const SectionTwo = () => {
 
         <div className="flex gap-5 mt-8">
           <div className="w-[33%]">
-            <h2 className="md:text-5xl text-2xl">152+ </h2>
+            <h2 className="md:text-5xl text-2xl">152+</h2>
             <p className="text-sm">Beautiful Spaces Designed</p>
           </div>
           <div className="w-[33%]">
